@@ -1,2 +1,10 @@
-# Emotion-Detection
-A real-time facial emotion recognition system using OpenCV and a Keras-trained CNN model. It captures webcam input, detects faces, and classifies emotions like Happy, Sad, and Angry, displaying the result live on screen.
+🎭 EmotionVision – Real-Time Emotion Detector
+
+This is a Python-based facial emotion recognition tool powered by deep learning, capable of:
+
+📷 Capturing live webcam footage
+🧠 Detecting faces using Haar cascades
+😄 Classifying emotions like Happy, Sad, Angry & more
+🖼️ Displaying detected emotions in real-time on screen
+
+Perfect for exploring computer vision, CNNs, and real-time emotion analysis.
